@@ -21,7 +21,7 @@ A small example of a blog using MongoDB with PHP7. It has no authentication, onl
 
 ## Database Scheme
 
-![Database scheme seen in RoboMongo](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![Database scheme seen in RoboMongo](https://github.com/Elolawyn/MongoDB-PHP7-Tutorial/blob/master/doc/scheme.png)
 
 ## Project description
 

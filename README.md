@@ -25,16 +25,16 @@ A small example of a blog using MongoDB with PHP7. It has no authentication, onl
 
 ## Files
 
-1. lib_php/
+1. **lib_php/:** PHP functionality
     1. **bd.php:** functions to access mongodb (most important file I'd say)
     2. **config.php:** app config file (change routes to php services and mongodb access configuration here)
     3. **html_vuilder.php:** functions to build blog's html
     4. **include.php:** don't mind this one
-2. css/: bootstrap
-3. doc/: image included in this README
-4. fonts/: glyphicons
-5. js/: jquery and bootstrap
-6. img/: user image
+2. **css/:** bootstrap
+3. **doc/:** image included in this README
+4. **fonts/:** glyphicons
+5. **js/:** jquery and bootstrap
+6. **img/:** user image
 7. **index.php**
 8. **servicio_add_comment:** JSON POST service to add a comment
 9. **servicio_add_post:** JSON POST service to add a post

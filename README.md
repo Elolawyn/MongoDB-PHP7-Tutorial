@@ -21,7 +21,23 @@ A small example of a blog using MongoDB with PHP7. It has no authentication, onl
 
 ## Database Scheme
 
+![Database scheme seen in RoboMongo](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
+## Project description
+
+1. lib_php
+⋅⋅1. **bd.php:** functions to access mongodb (most important file I'd say)
+⋅⋅2. **config.php:** app config file (change routes to php services and mongodb access configuration here)
+⋅⋅3. **html_vuilder.php:** functions to build blog's html
+⋅⋅4. **include.php:** don't mind this one
+2. **index.php**
+3. **servicio_add_comment:** JSON POST service to add a comment
+4. **servicio_add_post:** JSON POST service to add a post
+5. **servicio_delete_comment:** JSON POST service to delete a comment
+6. **servicio_delete_post:** JSON POST service to delete a post
+7. **servicio_edit_comment:** JSON POST service to edit a comment
+8. **servicio_edit_post:** JSON POST service to edit a post
+8. **servicio_reload_posts:** JSON GET service to get all posts and comments (it's not used in the index)
 
 ## More information
 

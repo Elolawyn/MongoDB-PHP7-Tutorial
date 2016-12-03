@@ -19,7 +19,7 @@ A small example of a blog using MongoDB with PHP7. It has no authentication, onl
 6. **Edit comment**
 7. **Delete comment**
 
-## Database Scheme
+## Database Scheme (seen in RoboMongo)
 
 ![Database scheme seen in RoboMongo](https://github.com/Elolawyn/MongoDB-PHP7-Tutorial/blob/master/doc/scheme.png)
 
